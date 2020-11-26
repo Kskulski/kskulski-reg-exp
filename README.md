@@ -1,4 +1,4 @@
-# skulski-reg-exp
+# kskulski-reg-exp
 # Author: Kevin Skulski
 # Contact: kevinpskulski@lewisu.edu
 # Class: Software Engineering
